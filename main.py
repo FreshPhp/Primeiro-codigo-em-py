@@ -1,6 +1,6 @@
 while true:
 	try:
 		while true:
-			print("\033[1;32mfresh está  acessando seu celular...e hackeando seu sistema😈")
+			print("\033[1;32mfresh está te hackeando, e entrando no seu celular...😈")
 	except:
 		continue
