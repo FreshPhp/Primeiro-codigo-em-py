@@ -1,7 +1,7 @@
 while True:
         try:
-                while True:
-                        print("\033[1;31mInjetando vírus...Aguarde⚠️   Injetando vírus...Aguarde⚠️   I>
+                while True: 
+                        print("\033[1;31mInjetando vírus...Aguarde⚠️   Injetando vírus...Aguarde⚠️    Injetando vírus...Aguarde⚠️")
         except:
                 continue
 
